@@ -18,6 +18,7 @@ A growing collection of reusable AI agent skills. Each skill lives in its own fo
 | [Creative problem solving](creative-problem-solving/SKILL.md) | Reframe a challenge, generate distinct possibilities, and develop promising concepts. |
 | [TRIZ-inspired invention](triz-invention/SKILL.md) | Model technical contradictions and explore mechanisms that could overcome a design tradeoff. |
 | [Innovation experiments](innovation-experiments/SKILL.md) | Turn consequential product or business assumptions into decision-focused tests. |
+| [First-principles thinking](first-principles-thinking/SKILL.md) | Separate facts and requirements from assumptions, then rebuild alternatives from the necessary functions. |
 
 ## Use a skill
 
@@ -38,10 +39,13 @@ Additional examples:
 - Use `project-premortem` to review this launch plan and propose changes for the most consequential failure mechanisms.
 - Use `calibrated-forecasting` to turn this prediction into a resolvable question and an evidence-based estimate.
 - Use `principled-negotiation` to prepare a supplier discussion, including my feasible alternative if we do not agree.
+- Use `first-principles-thinking` to examine which parts of this design are necessary and which are inherited assumptions.
 
 ## Choosing skills
 
 Choose the skill for the decision at hand. Jobs to Be Done investigates choices in context; COM-B investigates barriers to a specified behaviour. Creative problem solving expands possibilities; TRIZ examines technical conflicts; innovation experiments investigates uncertain claims. IDEO-inspired product design supports the broader human-centered product process.
+
+First-principles thinking examines the foundations of a problem and rebuilds possible approaches. Use it when an inherited assumption may be constraining the decision; it does not replace domain evidence or user requirements.
 
 Combine skills when useful, rather than requiring every task to pass through the whole collection. For example, investigate a customer choice with Jobs to Be Done, explore concepts with creative problem solving, and design a test with innovation experiments. Use pyramid writing when the resulting recommendation needs clearer communication.
 
@@ -54,3 +58,5 @@ The pyramid-writing skill is an independent application of Barbara Minto's publi
 The Carnegie-inspired communication skill independently applies publicly described ideas associated with Dale Carnegie's *How to Win Friends and Influence People*. It is not affiliated with or endorsed by Dale Carnegie & Associates. Source links are included in the skill.
 
 The other skills independently adapt publicly described work from the Christensen Institute, Richard Rumelt, COM-B researchers and UCL, Gary Klein, Philip Tetlock and colleagues, the Harvard negotiation tradition, the Creative Education Foundation, TRIZ practitioners, Steve Blank, and NSF I-Corps. Each skill identifies its sources and distinguishes those ideas from its original operational instructions. No affiliation, endorsement, certification, or guarantee of results is implied.
+
+The first-principles thinking skill is an original practical synthesis. It links to Aristotle and Richard Feynman for historical and scientific context, without attributing its workflow to either author.
