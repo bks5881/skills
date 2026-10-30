@@ -7,6 +7,7 @@ A growing collection of reusable AI agent skills. Each skill lives in its own fo
 | Skill | Purpose |
 | --- | --- |
 | [IDEO-inspired product design](ideo-product-design/SKILL.md) | Frame human needs, explore distinct physical-product concepts, build useful prototypes, and plan evidence-based iteration. |
+| [Pyramid writing](pyramid-writing/SKILL.md) | Write clear executive emails, memos, proposals, and presentation storylines using Barbara Minto-inspired answer-first reasoning. |
 
 ## Use a skill
 
@@ -19,3 +20,5 @@ Example task:
 ## Attribution
 
 The IDEO-inspired skill is an independent adaptation of public IDEO and IDEO.org methods. It is not affiliated with or endorsed by IDEO. Source links are included in the skill.
+
+The pyramid-writing skill is an independent application of Barbara Minto's publicly described methods. It is not affiliated with or endorsed by Barbara Minto, Minto Books International, or McKinsey. It includes original instructions and examples, with links to primary sources.
